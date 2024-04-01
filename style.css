@@ -1,0 +1,79 @@
+.title{
+    text-align: center;
+    background-color: rgba(167, 132, 56, 0.363);
+    color: rgb(94, 6, 6);
+    font-weight: 900;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#rec{
+    /* background-color: wheat; */
+    margin-left: 31%;
+    width: 500px;
+    height: auto;
+}
+
+.pList{
+    background-color: rgba(117, 44, 44, 0);
+    font-weight: bolder;
+    color: rgb(111, 8, 8);
+    font-size: xx-large;
+    margin-top: 9%;
+}
+
+.cList{
+    color: rgb(165, 42, 42);
+}
+
+#test{
+    color: rgb(66, 67, 24);
+    text-align: center;
+    background-color: rgb(194, 187, 109);
+}
+
+.imch{
+    margin-left: 22em;
+    width: auto;
+    height: 900px;
+}
+
+.impu{
+    margin-left: 12.8em;
+    /* width: auto;
+    height: 900px; */
+}
+
+img{
+    margin-left: 12em;
+}
+
+.steps{
+    background-color: rgba(191, 177, 69, 0.736);
+    margin-left: 1em;
+}
+
+li{
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2%;
+}
+
+p{
+    font-size: 80%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#descCA{
+    margin-left: 25.32%;
+}
+
+#descC{
+    margin-left: 12em;
+    margin-right: 10em;
+}
+
+#descP{
+    margin-left:13em;
+    margin-right: 8.5em;
+}
